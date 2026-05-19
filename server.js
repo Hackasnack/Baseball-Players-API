@@ -31,8 +31,9 @@ const players = {
         'position': 'Third Baseman'
     },
     'unknown': {
+        'name': 'unknown',
         'age': 0,
-        'team': 'unkown',
+        'team': 'unknown',
         'position': 'unknown'
     }
 }
